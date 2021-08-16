@@ -20,7 +20,7 @@ export class AppComponent implements OnInit {
   }
 
   ngOnInit() {
-    console.log("in ngOnInit");
+    console.log("in ngOnInit -- commit from github");
   }
 
   callPhone(e: number) {
